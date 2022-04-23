@@ -1,3 +1,6 @@
+# Rastreador de CEP que mostra todas as informações presentes no CEP fornecido (Localidade, bairro, cidade, complemento e UF). Uso da API 'http://viacep.com.br/ws/'
+Desenvolvido por Pedro Henrque Vilas Boas Oliveira.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
